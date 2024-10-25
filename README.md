@@ -5,7 +5,7 @@ Repository for ESS 569's final project data.
 Metagenome Assembled Genome (MAGs) stored as FA files. 
 ### DNA Sequences
 1. Microbial DNA sequencing database
-2. Identified genera in Zuckular et al.
+2. Identified genera in Zackular et al.
 ```
 @article{Zackular2014,
   author = {J. P. Zackular and M. A. M. Rogers and M. T. Ruffin and P. D. Schloss},
