@@ -1,9 +1,15 @@
 # ESS569_AI_data
 Repository for ESS 569's final project data.
 ## Data Sources
+
 Metagenome-assembled genomes (MAG) stored as FASTQ files. Data was retrieved from https://opendata.lifebit.ai/table/sgb
 ### MAGs and Identified Genera
 1. Constructed MAGs in Pasolli et al.
+   16S rRNA DNA sequences stored as FASTQ files.
+Metagenome Assembled Genome (MAGs) stored as FA files. 
+### DNA Sequences
+1. Microbial DNA sequencing database
+2. Identified genera in Zackular et al.
 ```
 @article{Zackular2014,
   author = {J. P. Zackular and M. A. M. Rogers and M. T. Ruffin and P. D. Schloss},
