@@ -2,6 +2,7 @@
 Repository for ESS 569's final project data.
 ## Data Sources
 16S rRNA DNA sequences stored as FASTQ files.
+Metagenome Assembled Genome (MAGs) stored as FA files. 
 ### DNA Sequences
 1. Microbial DNA sequencing database
 2. Identified genera in Zuckular et al.
