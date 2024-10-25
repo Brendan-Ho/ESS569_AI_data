@@ -1,10 +1,9 @@
 # ESS569_AI_data
 Repository for ESS 569's final project data.
 ## Data Sources
-16S rRNA DNA sequences stored as FASTQ files.
-### DNA Sequences
-1. Microbial DNA sequencing database
-2. Identified genera in Zuckular et al.
+Metagenome-assembled genomes (MAG) stored as FASTQ files. Data was retrieved from https://opendata.lifebit.ai/table/sgb
+### MAGs and Identified Genera
+1. Constructed MAGs in Pasolli et al.
 ```
 @article{Zackular2014,
   author = {J. P. Zackular and M. A. M. Rogers and M. T. Ruffin and P. D. Schloss},
@@ -17,7 +16,8 @@ Repository for ESS 569's final project data.
   doi = {10.1158/1940-6207.CAPR-14-0129}
 }
 ```
-4. Sulfide-producing general in Wolf et al.
+2. Custome HMM profiles 
+3. Sulfide-producing genera and correlation with CRC in Wolf et al.
 ```
 @article{Wolf2022,
   author = {P. G. Wolf and E. S. Cowley and A. Breister and S. Matatov and L. Lucio and P. Polak and J. M. Ridlon and H. R. Gaskins and K. Anantharaman},
@@ -32,7 +32,7 @@ Repository for ESS 569's final project data.
 ```
 
 ## Project Objectives
-Apply Random Forest algorithms to microbial OTUs found in fecal samples in order to correlate sulfide-producing bacteria with patients diagnosed with Adenoma or Carcinoma.  
+Apply Random Forest algorithms to MAGs constructed from human fecal samples in order to correlate sulfide-producing bacteria with patients diagnosed with Adenoma or Carcinoma.  
 
 ## Environment Packages
 ```
@@ -48,4 +48,16 @@ import qiime2
 from qiime2.plugins import demux, dada2, feature_table, taxa, phylogeny, diversity
 ```
 ## Script Descriptions
-Not yet available as of 10/24/24.
+1. METabolic And BiogOchemistry anaLyses In miCrobes (METABOLIC) is a software that predicts metabolic and biogeochemical functional trait profiles to any given genome datasets (Zhou et al.) https://github.com/AnantharamanLab/METABOLIC
+```
+@article{Zhou2022,
+  author = {Z. Zhou, P. Q. Tran, A. M. Breister, Y. Liu, K. Kieft, E. S. Cowley, U. Karaoz, and K. Anantharaman},
+  title = {METABOLIC: high-throughput profiling of microbial genomes for functional traits, metabolism, biogeochemistry. and community-scale functional networks},
+  journal = {Microbiome},
+  volume = {10},
+  number = {33},
+  year = {2022},
+  doi = {10.1186/s40168-021-01213-8}
+}
+```
+
