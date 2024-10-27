@@ -1,0 +1,22 @@
+This zip file contains four files:
+
+- One .txt file with a list of all the urls for the files to download
+- One .sh file which is a shell script that allow to download all files by
+running the following command in UNIX systems:
+
+./download_files.sh <downloaded_file_from_opendata_with_data_links.txt>
+
+You will need to replace the text between '<' and '>' with the provided .txt
+file.
+
+Optionally you can do:
+
+./download_files.sh <downloaded_file_from_opendata_with_data_links.txt> download_folder
+
+And this will download all the files into the specified download_folder. If no download_folder
+is provided then the files will be downloaded to a folder named 'downloaded_files' in the
+current working directory.
+
+- A tsv file with the metadata corresponding to the downloaded files (in .txt
+file) in this zip.
+- This README, with instructions on how to use this zip file.
