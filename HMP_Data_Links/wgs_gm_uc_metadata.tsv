@@ -1,0 +1,7 @@
+sample_id	subject_id	subject_uuid	sample_body_site	visit_number	subject_gender	subject_race	study_full_name	project_name
+e2559e04fcd73935a7d7b917902f39bf	UC100102	6788b769d0b62444378462474dba66df	ileum	1	male	unknown	The Role of the Gut Microbiota in Ulcerative Colitis, Whole Metagenome Sequencing Project.	Human Microbiome Project (HMP)
+e2559e04fcd73935a7d7b91790903926	UC100103	6788b769d0b62444378462474dafb050	ileum	1	male	unknown	The Role of the Gut Microbiota in Ulcerative Colitis, Whole Metagenome Sequencing Project.	Human Microbiome Project (HMP)
+5b623c6331ad5148ad7307d906cfddd1	UC100103	6788b769d0b62444378462474dafb050	ileum	1	male	unknown	The Role of the Gut Microbiota in Ulcerative Colitis, Whole Metagenome Sequencing Project.	Human Microbiome Project (HMP)
+3674d95cd0d27e1de94ddf4d2e9dfa89	UC100100	6788b769d0b62444378462474d9d67ec	ileum	1	male	unknown	The Role of the Gut Microbiota in Ulcerative Colitis, Whole Metagenome Sequencing Project.	Human Microbiome Project (HMP)
+3674d95cd0d27e1de94ddf4d2e9df0f4	UC100100	6788b769d0b62444378462474d9d67ec	ileum	1	male	unknown	The Role of the Gut Microbiota in Ulcerative Colitis, Whole Metagenome Sequencing Project.	Human Microbiome Project (HMP)
+3674d95cd0d27e1de94ddf4d2e9cb2e3	UC100101	6788b769d0b62444378462474dafb14c	ileum	1	female	unknown	The Role of the Gut Microbiota in Ulcerative Colitis, Whole Metagenome Sequencing Project.	Human Microbiome Project (HMP)
