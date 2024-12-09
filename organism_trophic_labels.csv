@@ -1,19 +1,6 @@
-Supplementary Dataset S1: MMETSP trophic mode label information.,,,,
-,,,,
-Legend:,,,,
-Mix: Mixotrophic,,,,
-Phot: Phototrophic,,,,
-Het: Heterotrophic,,,,
-Ax: Axenic,,,,
-Osmo: osmoheterotroph,,,,
-M/H: Likely Mixotrophic or Heterotrophic,,,,
-Un: Undetermined,,,,
-,,,,
-Note: All diatoms were labeled phototrophic. All amoeba were labeled heterotrophic. Foraminifera were labeled heterotrophic. Parasites were labeled heterotrophic. Chlorophytes were labeled phototrophic unless otherwise noted in the literature.,,,,
-,,,,
 Organism Name,MMETSP ID,Trophic Mode,Other Factors,Reference
-Ochromonas sp. CCMP1393,MMETSP0004,Mix,,"Nutritional characteristics of a mixotrophic nanoflagellate, Ochromonas sp. 1989. Andersson et al. Microbial Ecology."
-Ochromonas sp. CCMP1393,MMETSP0005,Het,Dark,"Nutritional characteristics of a mixotrophic nanoflagellate, Ochromonas sp. 1989. Andersson et al. Microbial Ecology."
+Ochromonas sp. CCMP1393,MMETSP0004,Mix,,"Nutritional characteristics of a mixotrophic nanoflagellate, Ochromonasï¿½sp. 1989. Andersson et al. Microbial Ecology."
+Ochromonas sp. CCMP1393,MMETSP0005,Het,Dark,"Nutritional characteristics of a mixotrophic nanoflagellate, Ochromonasï¿½sp. 1989. Andersson et al. Microbial Ecology."
 Prymnesium parvum Texoma1,MMETSP0006,Phot,Ax,
 Chlamydomonas euryale CCMP219,MMETSP0063,Phot,,
 Chaetoceros affinis CCMP159,MMETSP0090,Phot,,
@@ -24,29 +11,29 @@ Chaetoceros affinis CCMP159,MMETSP0091,Phot,,
 Prymnesium parvum Texoma1,MMETSP0007,Phot,Ax,
 Grammatophora oceanica CCMP 410,MMETSP0009,Phot,,
 Corethron hystrix 308,MMETSP0010,Phot,,
-Rhodosorus marinus CCMP 769,MMETSP0011,Phot,,"Effect of photon fluence rate, nitrogen limitation and nitrogen recovery on the level of phycoerythrin in the unicellular alga, Rhodosorus marinus (Rhodophyceae). 1994. Dupre et al. Physiologia Plantarum."
+Rhodosorus marinus CCMP 769,MMETSP0011,Phot,,"Effect of photon fluence rate, nitrogen limitation and nitrogen recovery on the level of phycoerythrin in the unicellular alga,ï¿½Rhodosorus marinusï¿½(Rhodophyceae). 1994. Dupre et al. Physiologia Plantarum."
 Skeletonema costatum 1716,MMETSP0013,Phot,,
 Nitszchia sp. RCC80,MMETSP0014,Phot,,
 Odontella aurita isolate 1302-5,MMETSP0015,Phot,,
 Cylindrotheca closterium KMMCC:B-181,MMETSP0017,Phot,,
 Uronema sp. Bbcil,MMETSP0018,Het,,Comparative growth rates and yields of ciliates and heterotrophic dinoflagellates. 1998. Strom and Morello. J. Plankton Res.
-Dinobryon sp. UTEXLB2267,MMETSP0019,Mix,,Light-dependent phagotrophy in the freshwater mixotrophic chrysophyte Dinobryon cylindricum. 1993. Caron et al. Microbial Ecology.
-Dinobryon sp. UTEXLB2267,MMETSP0020,Het,Dark,Light-dependent phagotrophy in the freshwater mixotrophic chrysophyte Dinobryon cylindricum. 1993. Caron et al. Microbial Ecology.
-Karenia brevis CCMP2229,MMETSP0027,Mix,,Grazing by Karenia brevis on Synechococcus enhances its growth rate and may help to sustain blooms. 2009. Gilbert et al. AME.
-Karenia brevis CCMP2229,MMETSP0029,Mix,,Grazing by Karenia brevis on Synechococcus enhances its growth rate and may help to sustain blooms. 2009. Gilbert et al. AME.
-Karenia brevis CCMP2229,MMETSP0030,Mix,,Grazing by Karenia brevis on Synechococcus enhances its growth rate and may help to sustain blooms. 2009. Gilbert et al. AME.
-Karenia brevis CCMP2229,MMETSP0031,Mix,,Grazing by Karenia brevis on Synechococcus enhances its growth rate and may help to sustain blooms. 2009. Gilbert et al. AME.
+Dinobryon sp. UTEXLB2267,MMETSP0019,Mix,,Light-dependent phagotrophy in the freshwater mixotrophic chrysophyteï¿½Dinobryon cylindricum. 1993. Caron et al. Microbial Ecology.
+Dinobryon sp. UTEXLB2267,MMETSP0020,Het,Dark,Light-dependent phagotrophy in the freshwater mixotrophic chrysophyteï¿½Dinobryon cylindricum. 1993. Caron et al. Microbial Ecology.
+Karenia brevis CCMP2229,MMETSP0027,Mix,,Grazing byï¿½Karenia brevisï¿½onï¿½Synechococcusï¿½enhances its growth rate and may help to sustain blooms. 2009. Gilbert et al. AME.
+Karenia brevis CCMP2229,MMETSP0029,Mix,,Grazing byï¿½Karenia brevisï¿½onï¿½Synechococcusï¿½enhances its growth rate and may help to sustain blooms. 2009. Gilbert et al. AME.
+Karenia brevis CCMP2229,MMETSP0030,Mix,,Grazing byï¿½Karenia brevisï¿½onï¿½Synechococcusï¿½enhances its growth rate and may help to sustain blooms. 2009. Gilbert et al. AME.
+Karenia brevis CCMP2229,MMETSP0031,Mix,,Grazing byï¿½Karenia brevisï¿½onï¿½Synechococcusï¿½enhances its growth rate and may help to sustain blooms. 2009. Gilbert et al. AME.
 Dolichomastix tenuilepis CCMP3274,MMETSP0033,Un,,
-Nephroselmis pyriformis CCMP717,MMETSP0034,Mix,,"Mixotrophy in Chlorophytes and Haptophytes—Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
+Nephroselmis pyriformis CCMP717,MMETSP0034,Mix,,"Mixotrophy in Chlorophytes and Haptophytesï¿½Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
 Cryptomonas paramecium CCAP977/2a,MMETSP0038,Het,,Insight into the Diversity and Evolution of the Cryptomonad Nucleomorph Genome. 2005. Lane et al. Mol. Bio. Evol.
 Eutreptiella gymnastica NIES-381,MMETSP0039,Phot,Ax,
 Lotharella oceanica CCMP622,MMETSP0040,Phot,Ax,
 Lotharella globosa LEX01,MMETSP0041,Phot,Ax,
 Lotharella amoebiformis CCMP2058,MMETSP0042,Phot,Ax,
 Hemiselmis andersenii CCMP644,MMETSP0043,Un,,
-Oxyrrhis marina CCMP1788,MMETSP0044,Het,,Dynamics of herbivorous grazing by the heterotrophic dinoflagellate oxyrrhis marina. 1989. Goldman et al. J. Plankton Res.
+Oxyrrhis marina CCMP1788,MMETSP0044,Het,,Dynamics of herbivorous grazing by the heterotrophic dinoflagellateï¿½oxyrrhis marina. 1989. Goldman et al. J. Plankton Res.
 Bigelowiella natans CCMP 2755,MMETSP0045,Phot,Ax,
-Guillardia theta CCMP 2712,MMETSP0046,Phot,,"The Plastid Genome of the Cryptophyte Alga, Guillardia theta: Complete Sequence and Conserved Synteny Groups Confirm Its Common Ancestry with Red Algae. 1999. Douglas and Penny. J. Mol. Evolution."
+Guillardia theta CCMP 2712,MMETSP0046,Phot,,"The Plastid Genome of the Cryptophyte Alga,ï¿½Guillardia theta:ï¿½Complete Sequence and Conserved Synteny Groups Confirm Its Common Ancestry with Red Algae. 1999. Douglas and Penny. J. Mol. Evolution."
 "Chroomonas mesostigmatica_cf, Strain CCMP1168",MMETSP0047,Un,,
 Polytomella parva SAG 63-3,MMETSP0052,Phot,Ax,
 "Prorocentrum minimum, Strain CCMP1329",MMETSP0053,Phot,Ax,
@@ -61,15 +48,15 @@ Alexandrium monilatum CCMP3105,MMETSP0097,Un,,
 NY0313808BC1,MMETSP0098,Un,,
 NY0313808BC1,MMETSP0099,Un,,
 NY0313808BC1,MMETSP0100,Un,,
-Pteridomonas danica PT,MMETSP0101,Het,,Vestigial Chloroplasts in Heterotrophic Stramenopiles Pteridomonas danica and Ciliophrys infusionum (Dictyochophyceae). 2002. Sekiguchi et al. Protist.
-Pteridomonas danica PT,MMETSP0102,Het,,Vestigial Chloroplasts in Heterotrophic Stramenopiles Pteridomonas danica and Ciliophrys infusionum (Dictyochophyceae). 2002. Sekiguchi et al. Protist.
-Paraphysomonas imperforata PA2,MMETSP0103,Het,,"Effects of Temperature on Two Psychrophilic Ecotypes of a Heterotrophic Nanoflagellate, Paraphysomonas imperforata. 1992. Choi and Peters. A&E Microbiol."
-Paraphysomonas imperforata PA2,MMETSP0104,Het,,"Effects of Temperature on Two Psychrophilic Ecotypes of a Heterotrophic Nanoflagellate, Paraphysomonas imperforata. 1992. Choi and Peters. A&E Microbiol."
+Pteridomonas danica PT,MMETSP0101,Het,,Vestigial Chloroplasts in Heterotrophic Stramenopilesï¿½Pteridomonas danicaï¿½andï¿½Ciliophrys infusionumï¿½(Dictyochophyceae). 2002. Sekiguchi et al. Protist.
+Pteridomonas danica PT,MMETSP0102,Het,,Vestigial Chloroplasts in Heterotrophic Stramenopilesï¿½Pteridomonas danicaï¿½andï¿½Ciliophrys infusionumï¿½(Dictyochophyceae). 2002. Sekiguchi et al. Protist.
+Paraphysomonas imperforata PA2,MMETSP0103,Het,,"Effects of Temperature on Two Psychrophilic Ecotypes of a Heterotrophic Nanoflagellate,ï¿½Paraphysomonas imperforata. 1992. Choi and Peters. A&E Microbiol."
+Paraphysomonas imperforata PA2,MMETSP0104,Het,,"Effects of Temperature on Two Psychrophilic Ecotypes of a Heterotrophic Nanoflagellate,ï¿½Paraphysomonas imperforata. 1992. Choi and Peters. A&E Microbiol."
 Acanthoeca-like sp. 10tr,MMETSP0105,Un,,
 Acanthoeca-like sp. 10tr,MMETSP0106,Un,,
 Goniomonas pacifica CCMP1869,MMETSP0107,Het,,Genetic diversity of goniomonads: an ancient divergence between marine and freshwater species. 2004. Von der Heyden et al. Eur. J. Phycol. 
 Goniomonas pacifica CCMP1869,MMETSP0108,Het,,Genetic diversity of goniomonads: an ancient divergence between marine and freshwater species. 2004. Von der Heyden et al. Eur. J. Phycol. 
-Chlorarachnion reptans CCCM449,MMETSP0109,Mix,,"CYTOLOGY AND ULTRASTRUCTURE OF CHLORARACHNION REPTANS (CHLORARACHNIOPHYTA DIVISIO NOVA, CHLORARACHNIOPHYCEAE CLASSIS NOVA). 1984. Hibberd and Norris. J. Phycol. "
+Chlorarachnion reptans CCCM449,MMETSP0109,Mix,,"CYTOLOGY AND ULTRASTRUCTURE OFï¿½CHLORARACHNION REPTANSï¿½(CHLORARACHNIOPHYTA DIVISIO NOVA, CHLORARACHNIOPHYCEAE CLASSIS NOVA). 1984. Hibberd and Norris. J. Phycol. "
 Gymnochlora sp. CCMP2014,MMETSP0110,Un,,
 Lotharella globosa CCCM811,MMETSP0111,Un,,
 Lotharella globosa CCCM811,MMETSP0112,Un,,
@@ -115,14 +102,14 @@ Corethron pennatum L29A3,MMETSP0171,Phot,,
 Vexillifera sp. DIVA3 564/2,MMETSP0173,Het,,
 Proboscia alata PI-D3,MMETSP0174,Phot,,
 Proboscia alata PI-D3,MMETSP0176,Phot,,
-Minchinia chitonis ,MMETSP0186,Het,,"Fine structure of the spores of Minchinia chitonis (Lankester, 1885) Labbé, 1896 (Sporozoa: Haplosporida), a parasite of the chiton, Lepidochitona cinereus. 1980. Ball. Parasitology."
+Minchinia chitonis ,MMETSP0186,Het,,"Fine structure of the spores ofï¿½Minchinia chitonisï¿½(Lankester, 1885) Labbï¿½, 1896 (Sporozoa: Haplosporida), a parasite of the chiton,ï¿½Lepidochitona cinereus. 1980. Ball. Parasitology."
 Rosalina sp. ,MMETSP0190,Het,,
 Sorites sp. ,MMETSP0191,Het,,
 Thraustochytrium sp. LLF1b,MMETSP0198,Het,,
 Thraustochytrium sp. LLF1b,MMETSP0199,Het,,
 Chaetoceros sp. GSL56,MMETSP0200,Phot,,
-Karenia brevis Wilson,MMETSP0201,Mix,,Grazing by Karenia brevis on Synechococcus enhances its growth rate and may help to sustain blooms. 2009. Gilbert et al. AME.
-Karenia brevis Wilson,MMETSP0202,Mix,,Grazing by Karenia brevis on Synechococcus enhances its growth rate and may help to sustain blooms. 2009. Gilbert et al. AME.
+Karenia brevis Wilson,MMETSP0201,Mix,,Grazing byï¿½Karenia brevisï¿½onï¿½Synechococcusï¿½enhances its growth rate and may help to sustain blooms. 2009. Gilbert et al. AME.
+Karenia brevis Wilson,MMETSP0202,Mix,,Grazing byï¿½Karenia brevisï¿½onï¿½Synechococcusï¿½enhances its growth rate and may help to sustain blooms. 2009. Gilbert et al. AME.
 "Euplotes focardii, Strain TN1",MMETSP0205,Het,,UV Radiation and Visible Light Induce hsp70 Gene Expression in the Antarctic Psychrophilic Ciliate Euplotes focardii. 2015. Fulgentini et al. Microb. Ecol.
 "Euplotes focardii, Strain TN1",MMETSP0206,Het,,UV Radiation and Visible Light Induce hsp70 Gene Expression in the Antarctic Psychrophilic Ciliate Euplotes focardii. 2015. Fulgentini et al. Microb. Ecol.
 Strombidium inclinatum S3,MMETSP0208,Het,,"The functional biology of Strombidium sulcatum, a marine oligotrich ciliate (Ciliophora, Oligotrichina). 1988. Fenchel and Jonsson. MEPS"
@@ -133,7 +120,7 @@ Euplotes harpa FSP1.4,MMETSP0213,Un,M/H,
 Protocruzia adherens Boccale,MMETSP0216,Un,M/H,
 Togula jolla CCCM 725,MMETSP0224,Un,,
 Thoracosphaera heimii CCCM 670 (=CCMP 1069),MMETSP0225,Phot,,Evolution of different life-cycle strategies in oceanic calcareous dinoflagellates. 2007. Meier et al. Eur. J. Phycol. 
-Polarella glacialis CCMP 1383,MMETSP0227,Phot,,Heat shock effects and population survival in the polar dinoflagellate Polarella glacialis. 2012. Zheng et al. J. Exp. Mar. Bio. And Ecol.
+Polarella glacialis CCMP 1383,MMETSP0227,Phot,,Heat shock effects and population survival in the polar dinoflagellateï¿½Polarella glacialis. 2012. Zheng et al. J. Exp. Mar. Bio. And Ecol.
 Protoceratium reticulatum CCCM 535 (=CCMP 1889),MMETSP0228,Mix,,Phagotrophy in Harmful Algae. 2006. Stoecker et al. Ecological Studies.
 Pyrocystis lunula CCCM 517,MMETSP0229,Un,,
 Debaryomyces hansenii J26,MMETSP0232,Un,osmo,
@@ -143,8 +130,8 @@ Debaryomyces hansenii J26,MMETSP0235,Un,osmo,
 Prorocentrum micans CCCM 845,MMETSP0251,Mix,,Phagotrophy in Harmful Algae. 2006. Stoecker et al. Ecological Studies.
 Prorocentrum lima CCMP 684,MMETSP0252,Un,,
 Noctiluca scintillans ,MMETSP0253,Un,,
-Amphidinium carterae CCMP1314,MMETSP0258,Phot,,Nutritional Strategies in Dinoflagellates A Review with Emphasis on Cell Biological Aspects. 1992. Schnepf and Elbrächter. Europ. J. Protistol.
-Amphidinium carterae CCMP1314,MMETSP0259,Phot,,Nutritional Strategies in Dinoflagellates A Review with Emphasis on Cell Biological Aspects. 1992. Schnepf and Elbrächter. Europ. J. Protistol.
+Amphidinium carterae CCMP1314,MMETSP0258,Phot,,Nutritional Strategies in Dinoflagellates A Review with Emphasis on Cell Biological Aspects. 1992. Schnepf and Elbrï¿½chter. Europ. J. Protistol.
+Amphidinium carterae CCMP1314,MMETSP0259,Phot,,Nutritional Strategies in Dinoflagellates A Review with Emphasis on Cell Biological Aspects. 1992. Schnepf and Elbrï¿½chter. Europ. J. Protistol.
 Prorocentrum minimum CCMP2233,MMETSP0267,Mix,,Phagotrophy in Harmful Algae. 2006. Stoecker et al. Ecological Studies.
 Prorocentrum minimum CCMP2233,MMETSP0268,Mix,,Phagotrophy in Harmful Algae. 2006. Stoecker et al. Ecological Studies.
 Prorocentrum minimum CCMP2233,MMETSP0269,Mix,,Phagotrophy in Harmful Algae. 2006. Stoecker et al. Ecological Studies.
@@ -163,7 +150,7 @@ Gloeochaete witrockiana SAG 46.84,MMETSP0308,Un,,
 Compsopogon coeruleus SAG 36.94,MMETSP0312,Un,,
 Porphyridium aerugineum SAG 1380-2,MMETSP0313,Phot,,Light intensity adaptation of the phycobiliprotein content of the red alga Porphyridium. 1984. Jahn et al. Planta.
 Rhodella maculata CCMP 736,MMETSP0314,Un,,
-Rhodosorus marinus UTEX LB 2760,MMETSP0315,Phot,,"Effect of photon fluence rate, nitrogen limitation and nitrogen recovery on the level of phycoerythrin in the unicellular alga, Rhodosorus marinus (Rhodophyceae). 1994. Dupre et al. Physiologia Plantarum."
+Rhodosorus marinus UTEX LB 2760,MMETSP0315,Phot,,"Effect of photon fluence rate, nitrogen limitation and nitrogen recovery on the level of phycoerythrin in the unicellular alga,ï¿½Rhodosorus marinusï¿½(Rhodophyceae). 1994. Dupre et al. Physiologia Plantarum."
 Amphora coffeaeformis CCMP127,MMETSP0316,Phot,,
 Amphora coffeaeformis CCMP127,MMETSP0317,Phot,,
 Amphora coffeaeformis CCMP127,MMETSP0318,Phot,,
@@ -213,35 +200,35 @@ Sexangularia sp. ATCC50979,MMETSP0437,Het,,
 Stereomyxa ramosa Chinc5,MMETSP0439,Het,,
 Stygamoeba regulata BSH-02190019,MMETSP0447,Het,,
 Heterocapsa triquestra CCMP 448,MMETSP0448,Mix,,Phagotrophy in Harmful Algae. 2006. Stoecker et al. Ecological Studies.
-Strombidium rassoulzadegani ras09,MMETSP0449,Mix,,"Genetic Identities of Cryptic Species in the Strombidium stylifer/apolatum/oculatum Cluster, Including a Description of Strombidium rassoulzadegani n. sp. 2010. McManus et al. J. Euk. Microbiol."
-Oxyrrhis marina CCMP1795,MMETSP0451,Het,,Dynamics of herbivorous grazing by the heterotrophic dinoflagellate oxyrrhis marina. 1989. Goldman et al. J. Plankton Res.
+Strombidium rassoulzadegani ras09,MMETSP0449,Mix,,"Genetic Identities of Cryptic Species in theï¿½Strombidium stylifer/apolatum/oculatumï¿½Cluster, Including a Description ofï¿½Strombidium rassoulzadeganiï¿½n. sp. 2010. McManus et al. J. Euk. Microbiol."
+Oxyrrhis marina CCMP1795,MMETSP0451,Het,,Dynamics of herbivorous grazing by the heterotrophic dinoflagellateï¿½oxyrrhis marina. 1989. Goldman et al. J. Plankton Res.
 Strombidinopsis sp SopsisLIS2011,MMETSP0463,Un,M/H,
-Mesodinium pulex SPMC105,MMETSP0467,Mix,,"Prey selection, ingestion and growth responses of the common marine ciliate Mesodinium pulex in the light and in the dark. 2011. Tarangkoon and Hansen. AME."
-Oxyrrhis marina ,MMETSP0468,Het,,Dynamics of herbivorous grazing by the heterotrophic dinoflagellate oxyrrhis marina. 1989. Goldman et al. J. Plankton Res.
-Oxyrrhis marina ,MMETSP0469,Het,,Dynamics of herbivorous grazing by the heterotrophic dinoflagellate oxyrrhis marina. 1989. Goldman et al. J. Plankton Res.
-Oxyrrhis marina ,MMETSP0470,Het,,Dynamics of herbivorous grazing by the heterotrophic dinoflagellate oxyrrhis marina. 1989. Goldman et al. J. Plankton Res.
-Oxyrrhis marina ,MMETSP0471,Het,,Dynamics of herbivorous grazing by the heterotrophic dinoflagellate oxyrrhis marina. 1989. Goldman et al. J. Plankton Res.
+Mesodinium pulex SPMC105,MMETSP0467,Mix,,"Prey selection, ingestion and growth responses of the common marine ciliateï¿½Mesodinium pulexï¿½in the light and in the dark. 2011. Tarangkoon and Hansen. AME."
+Oxyrrhis marina ,MMETSP0468,Het,,Dynamics of herbivorous grazing by the heterotrophic dinoflagellateï¿½oxyrrhis marina. 1989. Goldman et al. J. Plankton Res.
+Oxyrrhis marina ,MMETSP0469,Het,,Dynamics of herbivorous grazing by the heterotrophic dinoflagellateï¿½oxyrrhis marina. 1989. Goldman et al. J. Plankton Res.
+Oxyrrhis marina ,MMETSP0470,Het,,Dynamics of herbivorous grazing by the heterotrophic dinoflagellateï¿½oxyrrhis marina. 1989. Goldman et al. J. Plankton Res.
+Oxyrrhis marina ,MMETSP0471,Het,,Dynamics of herbivorous grazing by the heterotrophic dinoflagellateï¿½oxyrrhis marina. 1989. Goldman et al. J. Plankton Res.
 Tiarina fusus LIS,MMETSP0472,Un,M/H,
-Rhodomonas lens RHODO,MMETSP0484,Phot,,Phycobiliprotein diffusion in chloroplasts of cryptophyte Rhodomonas CS24. 2009. Mirkovic et al. Photosynthesis Res.
-Tetraselmis chuii PLY429,MMETSP0491,Phot,,"Photoperiod and light intensity effects on growth and utilization of nutrients by the aquaculture feed microalga, Tetraselmis chui (PLY429). 2005. Meseck et al. Aquaculture."
+Rhodomonas lens RHODO,MMETSP0484,Phot,,Phycobiliprotein diffusion in chloroplasts of cryptophyteï¿½Rhodomonasï¿½CS24. 2009. Mirkovic et al. Photosynthesis Res.
+Tetraselmis chuii PLY429,MMETSP0491,Phot,,"Photoperiod and light intensity effects on growth and utilization of nutrients by the aquaculture feed microalga,ï¿½Tetraselmis chuiï¿½(PLY429). 2005. Meseck et al. Aquaculture."
 Thalassiosira gravida GMp14c1,MMETSP0492,Phot,,
 Thalassiosira gravida GMp14c1,MMETSP0493,Phot,,
 Thalassiosira gravida GMp14c1,MMETSP0494,Phot,,
-Heterocapsa rotundata SCCAP K-0483,MMETSP0503,Mix,,Mixotrophy in Heterocapsa rotundata: A mechanism for dominating the winter phytoplankton. 2016. Millette et al. Limnol. Oceanogr.
-Karenia brevis SP3,MMETSP0527,Mix,,Grazing by Karenia brevis on Synechococcus enhances its growth rate and may help to sustain blooms. 2009. Gilbert et al. AME.
-Karenia brevis SP3,MMETSP0528,Mix,,Grazing by Karenia brevis on Synechococcus enhances its growth rate and may help to sustain blooms. 2009. Gilbert et al. AME.
+Heterocapsa rotundata SCCAP K-0483,MMETSP0503,Mix,,Mixotrophy inï¿½Heterocapsa rotundata: A mechanism for dominating the winter phytoplankton. 2016. Millette et al. Limnol. Oceanogr.
+Karenia brevis SP3,MMETSP0527,Mix,,Grazing byï¿½Karenia brevisï¿½onï¿½Synechococcusï¿½enhances its growth rate and may help to sustain blooms. 2009. Gilbert et al. AME.
+Karenia brevis SP3,MMETSP0528,Mix,,Grazing byï¿½Karenia brevisï¿½onï¿½Synechococcusï¿½enhances its growth rate and may help to sustain blooms. 2009. Gilbert et al. AME.
 Skeletonema dohrnii SkelB,MMETSP0562,Phot,,
 Skeletonema dohrnii SkelB,MMETSP0563,Phot,,
-Karenia brevis SP1,MMETSP0573,Mix,,Grazing by Karenia brevis on Synechococcus enhances its growth rate and may help to sustain blooms. 2009. Gilbert et al. AME.
-Karenia brevis SP1,MMETSP0574,Mix,,Grazing by Karenia brevis on Synechococcus enhances its growth rate and may help to sustain blooms. 2009. Gilbert et al. AME.
+Karenia brevis SP1,MMETSP0573,Mix,,Grazing byï¿½Karenia brevisï¿½onï¿½Synechococcusï¿½enhances its growth rate and may help to sustain blooms. 2009. Gilbert et al. AME.
+Karenia brevis SP1,MMETSP0574,Mix,,Grazing byï¿½Karenia brevisï¿½onï¿½Synechococcusï¿½enhances its growth rate and may help to sustain blooms. 2009. Gilbert et al. AME.
 Skeletonema grethea CCMP 1804,MMETSP0578,Phot,,
 Dactyliosolen fragilissimus ,MMETSP0580,Phot,,
 Skeletonema japonicum CCMP2506,MMETSP0593,Phot,,
-Isochrysis galbana CCMP 1323,MMETSP0595,Mix,,"Mixotrophy in Chlorophytes and Haptophytes—Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
+Isochrysis galbana CCMP 1323,MMETSP0595,Mix,,"Mixotrophy in Chlorophytes and Haptophytesï¿½Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
 Skeletonema menzelii CCMP793,MMETSP0603,Phot,,
 Skeletonema menzelii CCMP793,MMETSP0604,Phot,,
-Karenia brevis Wilson,MMETSP0648,Mix,,Grazing by Karenia brevis on Synechococcus enhances its growth rate and may help to sustain blooms. 2009. Gilbert et al. AME.
-Karenia brevis Wilson,MMETSP0649,Mix,,Grazing by Karenia brevis on Synechococcus enhances its growth rate and may help to sustain blooms. 2009. Gilbert et al. AME.
+Karenia brevis Wilson,MMETSP0648,Mix,,Grazing byï¿½Karenia brevisï¿½onï¿½Synechococcusï¿½enhances its growth rate and may help to sustain blooms. 2009. Gilbert et al. AME.
+Karenia brevis Wilson,MMETSP0649,Mix,,Grazing byï¿½Karenia brevisï¿½onï¿½Synechococcusï¿½enhances its growth rate and may help to sustain blooms. 2009. Gilbert et al. AME.
 Alexandrium margalefi AMGDE01CS-322,MMETSP0661,Un,,
 Amphidinium massartii CS-259,MMETSP0689,Un,,
 Extubocellulus spinifer CCMP396,MMETSP0696,Phot,,
@@ -274,23 +261,23 @@ Nitzschia punctata CCMP561,MMETSP0747,Phot,,
 Chaetoceros neogracile CCMP1317,MMETSP0751,Phot,,
 Chaetoceros neogracile CCMP1317,MMETSP0752,Phot,,
 Chaetoceros neogracile CCMP1317,MMETSP0753,Phot,,
-Percolomonas cosmopolitus AE-1 (ATCC 50343),MMETSP0758,Het,,"Percolomonas cosmopolitus (Ruinen) n.gen., a new type of filter feeding flagellate from marine plankton. 1986. Fenchel and Patterson. J. Mar. Biol. Assoc. UK"
-Percolomonas cosmopolitus WS,MMETSP0759,Het,,"Percolomonas cosmopolitus (Ruinen) n.gen., a new type of filter feeding flagellate from marine plankton. 1986. Fenchel and Patterson. J. Mar. Biol. Assoc. UK"
-Gambierdiscus australes CAWD 149,MMETSP0766,Phot,,DINOFLAGELLATE DIVERSITY AND ABUNDANCE IN TWO BELIZEAN CORAL-REEF MANGROVE LAGOONS: A TEST OF MARGALEF’S MANDALA. 2005. Faust et al. Atoll Res. Bull.
+Percolomonas cosmopolitus AE-1 (ATCC 50343),MMETSP0758,Het,,"Percolomonas cosmopolitusï¿½(Ruinen) n.gen., a new type of filter feeding flagellate from marine plankton. 1986. Fenchel and Patterson. J. Mar. Biol. Assoc. UK"
+Percolomonas cosmopolitus WS,MMETSP0759,Het,,"Percolomonas cosmopolitusï¿½(Ruinen) n.gen., a new type of filter feeding flagellate from marine plankton. 1986. Fenchel and Patterson. J. Mar. Biol. Assoc. UK"
+Gambierdiscus australes CAWD 149,MMETSP0766,Phot,,DINOFLAGELLATE DIVERSITY AND ABUNDANCE IN TWO BELIZEAN CORAL-REEF MANGROVE LAGOONS: A TEST OF MARGALEFï¿½S MANDALA. 2005. Faust et al. Atoll Res. Bull.
 Palpitomonas bilix NIES-2562,MMETSP0780,Het,,Palpitomonas bilix gen. et sp. nov.: A novel deep-branching heterotroph possibly related to Archaeplastida or Hacrobia. 2010. Yabuki et al. Protist.
 Gymnodinium catenatum GC744,MMETSP0784,Mix,,Phagotrophy in Harmful Algae. 2006. Stoecker et al. Ecological Studies.
-Bolidomonas pacifica CCMP 1866,MMETSP0785,Phot,,Photophysiology of Bolidomonas pacifica. 2013. Thomas and Campbell. J. Plankton Res.
+Bolidomonas pacifica CCMP 1866,MMETSP0785,Phot,,Photophysiology ofï¿½Bolidomonas pacifica. 2013. Thomas and Campbell. J. Plankton Res.
 Thalassionema frauenfeldii CCMP 1798,MMETSP0786,Phot,,
 Rhizosolenia setigera CCMP 1694,MMETSP0789,Phot,,
-Alexandrium catenella OF101,MMETSP0790,Mix,,Mixotrophy in the newly described dinoflagellate Alexandrium pohangense: A specialist for feeding on the fast-swimming ichthyotoxic dinoflagellate Cochlodinium polykrikoides. 2015. Lim et al. Harmful Algae.
+Alexandrium catenella OF101,MMETSP0790,Mix,,Mixotrophy in the newly described dinoflagellateï¿½Alexandrium pohangense: A specialist for feeding on the fast-swimming ichthyotoxic dinoflagellateï¿½Cochlodinium polykrikoides. 2015. Lim et al. Harmful Algae.
 Stephanopyxis turris CCMP 815,MMETSP0794,Phot,,
 Amoebophrya sp. Ameob2,MMETSP0795,Het,,
 Pyrodinium bahamense pbaha01,MMETSP0796,Phot,,BIOLUMINESCENT CYCLE OF PHOTOSYNTHETIC DINOFLAGELLATES. 1966. Soli. Limnol. Oceanogr.
 Dinophysis acuminata DAEP01,MMETSP0797,Mix,,Phagotrophy in Harmful Algae. 2006. Stoecker et al. Ecological Studies.
-Myrionecta rubra CCMP2563,MMETSP0798,Mix,,Role of feeding in growth and photophysiology of Myrionecta rubra. 2005. Johnson and Stoecker. AME.
+Myrionecta rubra CCMP2563,MMETSP0798,Mix,,Role of feeding in growth and photophysiology ofï¿½Myrionecta rubra. 2005. Johnson and Stoecker. AME.
 Geminigera cryophila CCMP2564,MMETSP0799,Mix,,Physiological Responses of Three Species of Antarctic Mixotrophic Phytoflagellates to Changes in Light and Dissolved Nutrients. 2014. McKie-Krisberg et al. Microbiol. Aq. Sys.
 Striatella unipunctata CCMP2910,MMETSP0800,Phot,,
-Micromonas sp. CCMP2099,MMETSP0802,Mix,,"Mixotrophy in Chlorophytes and Haptophytes—Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
+Micromonas sp. CCMP2099,MMETSP0802,Mix,,"Mixotrophy in Chlorophytes and Haptophytesï¿½Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
 Crustomastix stigmata CCMP3273,MMETSP0803,Un,,
 Tetraselmis astigmatica CCMP880,MMETSP0804,Un,,
 Prasinoderma coloniale CCMP1413,MMETSP0806,Phot,,"Prasinoderma coloniale gen. et sp. nov., a new pelagic coccoid prasinophyte from the western Pacific Ocean. 1996. Hasegawa et al. Phycologia."
@@ -298,7 +285,7 @@ Picocystis salinarum CCMP1897,MMETSP0807,Un,,
 Eutreptiella gymnastica-like CCMP1594,MMETSP0809,Un,,
 Eutreptiella gymnastica-like CCMP1594,MMETSP0810,Un,,
 Eutreptiella gymnastica-like CCMP1594,MMETSP0811,Un,,
-Dinobryon sp. UTEXLB2267,MMETSP0812,Mix,,Light-dependent phagotrophy in the freshwater mixotrophic chrysophyte Dinobryon cylindricum. 1993. Caron et al. Microbial Ecology.
+Dinobryon sp. UTEXLB2267,MMETSP0812,Mix,,Light-dependent phagotrophy in the freshwater mixotrophic chrysophyteï¿½Dinobryon cylindricum. 1993. Caron et al. Microbial Ecology.
 Prymnesium parvum Texoma1,MMETSP0814,Mix,,
 Prymnesium parvum Texoma1,MMETSP0815,Mix,,
 Proboscia inermis CCAP1064/1,MMETSP0816,Un,,
@@ -322,10 +309,10 @@ Pelagomonas calceolata  CCMP1756,MMETSP0886,Un,,
 Pelagomonas calceolata  CCMP1756,MMETSP0887,Un,,
 Pelagomonas calceolata  CCMP1756,MMETSP0888,Un,,
 Pelagomonas calceolata  CCMP1756,MMETSP0889,Un,,
-Aureoumbra lagunensis CCMP1510,MMETSP0890,Phot,,ANALYSES OF THE COMPLETE CHLOROPLAST GENOME SEQUENCES OF TWO MEMBERS OF THE PELAGOPHYCEAE: AUREOCOCCUS ANOPHAGEFFERENS CCMP1984 AND AUREOUMBRA LAGUNENSIS CCMP1507. 2010. Ong et al. J. Phycol.
-Aureoumbra lagunensis CCMP1510,MMETSP0891,Phot,,ANALYSES OF THE COMPLETE CHLOROPLAST GENOME SEQUENCES OF TWO MEMBERS OF THE PELAGOPHYCEAE: AUREOCOCCUS ANOPHAGEFFERENS CCMP1984 AND AUREOUMBRA LAGUNENSIS CCMP1507. 2010. Ong et al. J. Phycol.
-Aureoumbra lagunensis CCMP1510,MMETSP0892,Phot,,ANALYSES OF THE COMPLETE CHLOROPLAST GENOME SEQUENCES OF TWO MEMBERS OF THE PELAGOPHYCEAE: AUREOCOCCUS ANOPHAGEFFERENS CCMP1984 AND AUREOUMBRA LAGUNENSIS CCMP1507. 2010. Ong et al. J. Phycol.
-Aureoumbra lagunensis CCMP1510,MMETSP0893,Phot,,ANALYSES OF THE COMPLETE CHLOROPLAST GENOME SEQUENCES OF TWO MEMBERS OF THE PELAGOPHYCEAE: AUREOCOCCUS ANOPHAGEFFERENS CCMP1984 AND AUREOUMBRA LAGUNENSIS CCMP1507. 2010. Ong et al. J. Phycol.
+Aureoumbra lagunensis CCMP1510,MMETSP0890,Phot,,ANALYSES OF THE COMPLETE CHLOROPLAST GENOME SEQUENCES OF TWO MEMBERS OF THE PELAGOPHYCEAE:ï¿½AUREOCOCCUS ANOPHAGEFFERENSï¿½CCMP1984 ANDï¿½AUREOUMBRA LAGUNENSISï¿½CCMP1507. 2010. Ong et al. J. Phycol.
+Aureoumbra lagunensis CCMP1510,MMETSP0891,Phot,,ANALYSES OF THE COMPLETE CHLOROPLAST GENOME SEQUENCES OF TWO MEMBERS OF THE PELAGOPHYCEAE:ï¿½AUREOCOCCUS ANOPHAGEFFERENSï¿½CCMP1984 ANDï¿½AUREOUMBRA LAGUNENSISï¿½CCMP1507. 2010. Ong et al. J. Phycol.
+Aureoumbra lagunensis CCMP1510,MMETSP0892,Phot,,ANALYSES OF THE COMPLETE CHLOROPLAST GENOME SEQUENCES OF TWO MEMBERS OF THE PELAGOPHYCEAE:ï¿½AUREOCOCCUS ANOPHAGEFFERENSï¿½CCMP1984 ANDï¿½AUREOUMBRA LAGUNENSISï¿½CCMP1507. 2010. Ong et al. J. Phycol.
+Aureoumbra lagunensis CCMP1510,MMETSP0893,Phot,,ANALYSES OF THE COMPLETE CHLOROPLAST GENOME SEQUENCES OF TWO MEMBERS OF THE PELAGOPHYCEAE:ï¿½AUREOCOCCUS ANOPHAGEFFERENSï¿½CCMP1984 ANDï¿½AUREOUMBRA LAGUNENSISï¿½CCMP1507. 2010. Ong et al. J. Phycol.
 Heterosigma akashiwo CCMP 452,MMETSP0894,Mix,,Phagotrophy in Harmful Algae. 2006. Stoecker et al. Ecological Studies.
 Heterosigma akashiwo CCMP 452,MMETSP0895,Mix,,Phagotrophy in Harmful Algae. 2006. Stoecker et al. Ecological Studies.
 Heterosigma akashiwo CCMP 452,MMETSP0896,Mix,,Phagotrophy in Harmful Algae. 2006. Stoecker et al. Ecological Studies.
@@ -346,26 +333,26 @@ Thalassiosira rotula GSO102,MMETSP0910,Phot,,
 Thalassiosira rotula GSO102,MMETSP0911,Phot,,
 Thalassiosira rotula GSO102,MMETSP0912,Phot,,
 Thalassiosira rotula GSO102,MMETSP0913,Phot,,
-Aureococcus anophagefferens CCMP1850,MMETSP0914,Phot,,ANALYSES OF THE COMPLETE CHLOROPLAST GENOME SEQUENCES OF TWO MEMBERS OF THE PELAGOPHYCEAE: AUREOCOCCUS ANOPHAGEFFERENS CCMP1984 AND AUREOUMBRA LAGUNENSIS CCMP1507. 2010. Ong et al. J. Phycol.
-Aureococcus anophagefferens CCMP1850,MMETSP0915,Phot,,ANALYSES OF THE COMPLETE CHLOROPLAST GENOME SEQUENCES OF TWO MEMBERS OF THE PELAGOPHYCEAE: AUREOCOCCUS ANOPHAGEFFERENS CCMP1984 AND AUREOUMBRA LAGUNENSIS CCMP1507. 2010. Ong et al. J. Phycol.
-Aureococcus anophagefferens CCMP1850,MMETSP0916,Phot,,ANALYSES OF THE COMPLETE CHLOROPLAST GENOME SEQUENCES OF TWO MEMBERS OF THE PELAGOPHYCEAE: AUREOCOCCUS ANOPHAGEFFERENS CCMP1984 AND AUREOUMBRA LAGUNENSIS CCMP1507. 2010. Ong et al. J. Phycol.
-Aureococcus anophagefferens CCMP1850,MMETSP0917,Phot,,ANALYSES OF THE COMPLETE CHLOROPLAST GENOME SEQUENCES OF TWO MEMBERS OF THE PELAGOPHYCEAE: AUREOCOCCUS ANOPHAGEFFERENS CCMP1984 AND AUREOUMBRA LAGUNENSIS CCMP1507. 2010. Ong et al. J. Phycol.
+Aureococcus anophagefferens CCMP1850,MMETSP0914,Phot,,ANALYSES OF THE COMPLETE CHLOROPLAST GENOME SEQUENCES OF TWO MEMBERS OF THE PELAGOPHYCEAE:ï¿½AUREOCOCCUS ANOPHAGEFFERENSï¿½CCMP1984 ANDï¿½AUREOUMBRA LAGUNENSISï¿½CCMP1507. 2010. Ong et al. J. Phycol.
+Aureococcus anophagefferens CCMP1850,MMETSP0915,Phot,,ANALYSES OF THE COMPLETE CHLOROPLAST GENOME SEQUENCES OF TWO MEMBERS OF THE PELAGOPHYCEAE:ï¿½AUREOCOCCUS ANOPHAGEFFERENSï¿½CCMP1984 ANDï¿½AUREOUMBRA LAGUNENSISï¿½CCMP1507. 2010. Ong et al. J. Phycol.
+Aureococcus anophagefferens CCMP1850,MMETSP0916,Phot,,ANALYSES OF THE COMPLETE CHLOROPLAST GENOME SEQUENCES OF TWO MEMBERS OF THE PELAGOPHYCEAE:ï¿½AUREOCOCCUS ANOPHAGEFFERENSï¿½CCMP1984 ANDï¿½AUREOUMBRA LAGUNENSISï¿½CCMP1507. 2010. Ong et al. J. Phycol.
+Aureococcus anophagefferens CCMP1850,MMETSP0917,Phot,,ANALYSES OF THE COMPLETE CHLOROPLAST GENOME SEQUENCES OF TWO MEMBERS OF THE PELAGOPHYCEAE:ï¿½AUREOCOCCUS ANOPHAGEFFERENSï¿½CCMP1984 ANDï¿½AUREOUMBRA LAGUNENSISï¿½CCMP1507. 2010. Ong et al. J. Phycol.
 Skeletonema marinoi skelA,MMETSP0918,Phot,,
 Skeletonema marinoi skelA,MMETSP0920,Phot,,
 Perkinsus chesapeaki ATCC PRA-65,MMETSP0924,Un,,
 Perkinsus chesapeaki ATCC PRA-65,MMETSP0925,Un,,
-Ostreococcus mediterraneus clade-D-RCC2572,MMETSP0929,Phot,,"Morphology, Genome Plasticity, and Phylogeny in the Genus Ostreococcus Reveal a Cryptic Species, O. mediterraneus sp. nov. (Mamiellales, Mamiellophyceae). 2013. Subirana et al. Protist."
-Ostreococcus mediterraneus clade-D-RCC1621,MMETSP0930,Phot,,"Morphology, Genome Plasticity, and Phylogeny in the Genus Ostreococcus Reveal a Cryptic Species, O. mediterraneus sp. nov. (Mamiellales, Mamiellophyceae). 2013. Subirana et al. Protist."
-Ostreococcus mediterraneus clade-D-RCC2596,MMETSP0932,Phot,,"Morphology, Genome Plasticity, and Phylogeny in the Genus Ostreococcus Reveal a Cryptic Species, O. mediterraneus sp. nov. (Mamiellales, Mamiellophyceae). 2013. Subirana et al. Protist."
-Ostreococcus prasinos BCC99000,MMETSP0933,Phot,,"Morphology, Genome Plasticity, and Phylogeny in the Genus Ostreococcus Reveal a Cryptic Species, O. mediterraneus sp. nov. (Mamiellales, Mamiellophyceae). 2013. Subirana et al. Protist."
-Ostreococcus mediterraneus clade-D-RCC2573,MMETSP0936,Phot,,"Morphology, Genome Plasticity, and Phylogeny in the Genus Ostreococcus Reveal a Cryptic Species, O. mediterraneus sp. nov. (Mamiellales, Mamiellophyceae). 2013. Subirana et al. Protist."
-Ostreococcus mediterraneus clade-D-RCC2593,MMETSP0937,Phot,,"Morphology, Genome Plasticity, and Phylogeny in the Genus Ostreococcus Reveal a Cryptic Species, O. mediterraneus sp. nov. (Mamiellales, Mamiellophyceae). 2013. Subirana et al. Protist."
-Ostreococcus mediterraneus clade-D-RCC1107,MMETSP0938,Phot,,"Morphology, Genome Plasticity, and Phylogeny in the Genus Ostreococcus Reveal a Cryptic Species, O. mediterraneus sp. nov. (Mamiellales, Mamiellophyceae). 2013. Subirana et al. Protist."
-Ostreococcus lucimarinus clade-A-BCC118000,MMETSP0939,Phot,,"Morphology, Genome Plasticity, and Phylogeny in the Genus Ostreococcus Reveal a Cryptic Species, O. mediterraneus sp. nov. (Mamiellales, Mamiellophyceae). 2013. Subirana et al. Protist."
+Ostreococcus mediterraneus clade-D-RCC2572,MMETSP0929,Phot,,"Morphology, Genome Plasticity, and Phylogeny in the Genusï¿½Ostreococcusï¿½Reveal a Cryptic Species,ï¿½O. mediterraneusï¿½sp. nov. (Mamiellales, Mamiellophyceae). 2013. Subirana et al. Protist."
+Ostreococcus mediterraneus clade-D-RCC1621,MMETSP0930,Phot,,"Morphology, Genome Plasticity, and Phylogeny in the Genusï¿½Ostreococcusï¿½Reveal a Cryptic Species,ï¿½O. mediterraneusï¿½sp. nov. (Mamiellales, Mamiellophyceae). 2013. Subirana et al. Protist."
+Ostreococcus mediterraneus clade-D-RCC2596,MMETSP0932,Phot,,"Morphology, Genome Plasticity, and Phylogeny in the Genusï¿½Ostreococcusï¿½Reveal a Cryptic Species,ï¿½O. mediterraneusï¿½sp. nov. (Mamiellales, Mamiellophyceae). 2013. Subirana et al. Protist."
+Ostreococcus prasinos BCC99000,MMETSP0933,Phot,,"Morphology, Genome Plasticity, and Phylogeny in the Genusï¿½Ostreococcusï¿½Reveal a Cryptic Species,ï¿½O. mediterraneusï¿½sp. nov. (Mamiellales, Mamiellophyceae). 2013. Subirana et al. Protist."
+Ostreococcus mediterraneus clade-D-RCC2573,MMETSP0936,Phot,,"Morphology, Genome Plasticity, and Phylogeny in the Genusï¿½Ostreococcusï¿½Reveal a Cryptic Species,ï¿½O. mediterraneusï¿½sp. nov. (Mamiellales, Mamiellophyceae). 2013. Subirana et al. Protist."
+Ostreococcus mediterraneus clade-D-RCC2593,MMETSP0937,Phot,,"Morphology, Genome Plasticity, and Phylogeny in the Genusï¿½Ostreococcusï¿½Reveal a Cryptic Species,ï¿½O. mediterraneusï¿½sp. nov. (Mamiellales, Mamiellophyceae). 2013. Subirana et al. Protist."
+Ostreococcus mediterraneus clade-D-RCC1107,MMETSP0938,Phot,,"Morphology, Genome Plasticity, and Phylogeny in the Genusï¿½Ostreococcusï¿½Reveal a Cryptic Species,ï¿½O. mediterraneusï¿½sp. nov. (Mamiellales, Mamiellophyceae). 2013. Subirana et al. Protist."
+Ostreococcus lucimarinus clade-A-BCC118000,MMETSP0939,Phot,,"Morphology, Genome Plasticity, and Phylogeny in the Genusï¿½Ostreococcusï¿½Reveal a Cryptic Species,ï¿½O. mediterraneusï¿½sp. nov. (Mamiellales, Mamiellophyceae). 2013. Subirana et al. Protist."
 Prasinococcus capsulatus CCMP1194,MMETSP0941,Un,,
-Cafeteria roenbergensis E4-10,MMETSP0942,Het,,Crash of a population of the marine heterotrophic flagellate Cafeteria roenbergensis by viral infection. 2007. Massana et al. Env. Microbiol.
-Isochrysis galbana CCMP1323,MMETSP0943,Mix,,"Mixotrophy in Chlorophytes and Haptophytes—Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
-Isochrysis galbana CCMP1323,MMETSP0944,Mix,,"Mixotrophy in Chlorophytes and Haptophytes—Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
+Cafeteria roenbergensis E4-10,MMETSP0942,Het,,Crash of a population of the marine heterotrophic flagellateï¿½Cafeteria roenbergensisï¿½by viral infection. 2007. Massana et al. Env. Microbiol.
+Isochrysis galbana CCMP1323,MMETSP0943,Mix,,"Mixotrophy in Chlorophytes and Haptophytesï¿½Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
+Isochrysis galbana CCMP1323,MMETSP0944,Mix,,"Mixotrophy in Chlorophytes and Haptophytesï¿½Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
 Vaucheria litorea CCMP2940,MMETSP0945,Phot,,The acquisition of phototrophy: adaptive strategies of hosting endosymbionts and organelles. 2011. Johnson. Photosynthesis Res.
 Vaucheria litorea CCMP2940,MMETSP0946,Phot,,The acquisition of phototrophy: adaptive strategies of hosting endosymbionts and organelles. 2011. Johnson. Photosynthesis Res.
 Chattonella subsalsa CCMP2191,MMETSP0947,Mix,,Mixotrophy in Red Tide Algae Raphidophytes. 2011. Jeong. J. Euk. Microbiol.
@@ -437,9 +424,9 @@ Rhodomonas salina CCMP1319,MMETSP1047,Phot,,Light and temperature acclimation of
 Hanusia phi CCMP325,MMETSP1048,Un,,
 Proteomonas sulcata CCMP704,MMETSP1049,Phot,,
 Cryptomonas curvata CCAP979/52,MMETSP1050,Phot,,"Ultrastructure of the flagellar apparatus in Rhinomonas reticulata var. atrorosea (Cryptophyceae, Cryptophyta). 2013. Nam et al. Algae."
-Bigelowiella natans CCMP623,MMETSP1052,Mix,,"ULTRASTRUCTURAL STUDIES ON BIGELOWIELLA NATANS, GEN. ET SP. NOV., A CHLORARACHNIOPHYTE FLAGELLATE. 2001. Moestrup and Sengco. J. Phycol."
-Bigelowiella natans CCMP1259,MMETSP1054,Mix,,"ULTRASTRUCTURAL STUDIES ON BIGELOWIELLA NATANS, GEN. ET SP. NOV., A CHLORARACHNIOPHYTE FLAGELLATE. 2001. Moestrup and Sengco. J. Phycol."
-Bigelowiella natans CCMP1258.1,MMETSP1055,Mix,,"ULTRASTRUCTURAL STUDIES ON BIGELOWIELLA NATANS, GEN. ET SP. NOV., A CHLORARACHNIOPHYTE FLAGELLATE. 2001. Moestrup and Sengco. J. Phycol."
+Bigelowiella natans CCMP623,MMETSP1052,Mix,,"ULTRASTRUCTURAL STUDIES ONï¿½BIGELOWIELLA NATANS, GEN. ET SP. NOV., A CHLORARACHNIOPHYTE FLAGELLATE. 2001. Moestrup and Sengco. J. Phycol."
+Bigelowiella natans CCMP1259,MMETSP1054,Mix,,"ULTRASTRUCTURAL STUDIES ONï¿½BIGELOWIELLA NATANS, GEN. ET SP. NOV., A CHLORARACHNIOPHYTE FLAGELLATE. 2001. Moestrup and Sengco. J. Phycol."
+Bigelowiella natans CCMP1258.1,MMETSP1055,Mix,,"ULTRASTRUCTURAL STUDIES ONï¿½BIGELOWIELLA NATANS, GEN. ET SP. NOV., A CHLORARACHNIOPHYTE FLAGELLATE. 2001. Moestrup and Sengco. J. Phycol."
 Cyclotella meneghiniana CCMP 338,MMETSP1057,Phot,,
 Detonula confervacea CCMP 353,MMETSP1058,Phot,,
 Thalassiosira sp. FW,MMETSP1059,Phot,,
@@ -451,34 +438,34 @@ Aulacoseira subarctica  CCAP 1002/5,MMETSP1064,Phot,,
 Amphiprora paludosa CCMP125,MMETSP1065,Phot,,
 Coscinodiscus wailesii CCMP2513,MMETSP1066,Phot,,
 Thalassiosira punctigera Tpunct2005C2,MMETSP1067,Phot,,
-Pseudopedinella elastica CCMP716,MMETSP1068,Mix,,"Presence, abundance and bacterivory of the mixotrophic algae Pseudopedinella (Dictyochophyceae) in freshwater environments. 2016. Gerea et al. AME."
+Pseudopedinella elastica CCMP716,MMETSP1068,Mix,,"Presence, abundance and bacterivory of the mixotrophic algaeï¿½Pseudopedinellaï¿½(Dictyochophyceae) in freshwater environments. 2016. Gerea et al. AME."
 Minutocellus polymorphus NH13,MMETSP1070,Phot,,
 Thalassiosira sp. NH16,MMETSP1071,Phot,,
 Ceratium fusus PA161109,MMETSP1074,Un,,
 Ceratium fusus PA161109,MMETSP1075,Un,,
 Micromonas sp CCMP1646,MMETSP1080,Phot,Ax,
 Pyramimonas amylifera CCMP720,MMETSP1081,Un,,
-Micromonas sp. NEPCC29,MMETSP1082,Mix,,"Mixotrophy in Chlorophytes and Haptophytes—Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
+Micromonas sp. NEPCC29,MMETSP1082,Mix,,"Mixotrophy in Chlorophytes and Haptophytesï¿½Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
 "Prymnesium parvum, Strain Texoma1",MMETSP1083,Het,Dark,
-Micromonas sp. RCC472,MMETSP1084,Mix,,"Mixotrophy in Chlorophytes and Haptophytes—Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
+Micromonas sp. RCC472,MMETSP1084,Mix,,"Mixotrophy in Chlorophytes and Haptophytesï¿½Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
 Pycnococcus sp CCMP1998,MMETSP1085,Phot,,Analysis of photosynthetic picoeukaryote diversity at open ocean sites in the Arabian Sea using a PCR biased towards marine algal plastids. 2006. Fuller et al. AME.
 Cyanoptyche  gloeocystis  SAG4.97,MMETSP1086,Un,,
 Gloeochaete wittrockiana SAG46.84,MMETSP1089,Un,,
 Isochrysis sp CCMP1244,MMETSP1090,Un,,
 Rhodomonas sp. CCMP768,MMETSP1091,Phot,,Light and temperature acclimation of Rhodomonas salina (Cryptophyceae): photosynthetic performance. 2002. Hammer et al. AME.
-Chrysochromulina brevifilum UTEX LB 985,MMETSP1094,Mix,,"The relationship between photoacclimation and phagotrophy with respect to chlorophyll a, carbon and nitrogen content, and cell size of Chrysochromulina brevifilum (Prymnesiophyceae) 1995. Jones et al. Phycologia."
+Chrysochromulina brevifilum UTEX LB 985,MMETSP1094,Mix,,"The relationship between photoacclimation and phagotrophy with respect to chlorophyllï¿½a, carbon and nitrogen content, and cell size of Chrysochromulina brevifilum (Prymnesiophyceae) 1995. Jones et al. Phycologia."
 Chromulina nebulosa UTEXLB2642,MMETSP1095,Un,,
-Chrysochromulina ericina CCMP281,MMETSP1096,Mix,,"Mixotrophy in Chlorophytes and Haptophytes—Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
-Pseudopedinella elastica CCMP716,MMETSP1097,Mix,,"Presence, abundance and bacterivory of the mixotrophic algae Pseudopedinella (Dictyochophyceae) in freshwater environments. 2016. Gerea et al. AME."
+Chrysochromulina ericina CCMP281,MMETSP1096,Mix,,"Mixotrophy in Chlorophytes and Haptophytesï¿½Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
+Pseudopedinella elastica CCMP716,MMETSP1097,Mix,,"Presence, abundance and bacterivory of the mixotrophic algaeï¿½Pseudopedinellaï¿½(Dictyochophyceae) in freshwater environments. 2016. Gerea et al. AME."
 Spumella elongata CCAP 955/1,MMETSP1098,Un,,
-Phaeocystis antarctica Caron Lab Isolate,MMETSP1100,Phot,,The life cycle of Phaeocystis: state of knowledge and presumptive role in ecology. 2007. Rousseau et al. Biogeochemistry. 
+Phaeocystis antarctica Caron Lab Isolate,MMETSP1100,Phot,,The life cycle ofï¿½Phaeocystis: state of knowledge and presumptive role in ecology. 2007. Rousseau et al. Biogeochemistry. 
 Rhodomonas abbreviata Caron Lab Isolate,MMETSP1101,Un,,
 Geminigera sp. Caron Lab Isolate,MMETSP1102,Un,,
-Paraphysomonas bandaiensis Caron Lab Isolate,MMETSP1103,Het,,"MOLECULAR PHYLOGENETIC ANALYSIS OF THE HETEROTROPHIC CHRYSOPHYTE GENUS PARAPHYSOMONAS (CHRYSOPHYCEAE), AND THE DESIGN OF rRNA?TARGETED OLIGONUCLEOTIDE PROBES FOR TWO SPECIES. 2002. Caron et al. J. Phycol. "
-Cafeteria sp. Caron Lab Isolate,MMETSP1104,Het,,Feeding by heterotrophic dinoflagellates on the common marine heterotrophic nanoflagellate Cafeteria sp. 2007. Jeong et al. MEPS.
-Ochromonas sp. BG-1,MMETSP1105,Mix,,"Nutritional characteristics of a mixotrophic nanoflagellate, Ochromonas sp. 1989. Andersson et al. Microbial Ecology."
-Mantoniella antarctica SL-175,MMETSP1106,Mix,,"Mixotrophy in Chlorophytes and Haptophytes—Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
-Paraphysomonas vestita GFlagA,MMETSP1107,Het,,"MOLECULAR PHYLOGENETIC ANALYSIS OF THE HETEROTROPHIC CHRYSOPHYTE GENUS PARAPHYSOMONAS (CHRYSOPHYCEAE), AND THE DESIGN OF rRNA?TARGETED OLIGONUCLEOTIDE PROBES FOR TWO SPECIES. 2002. Caron et al. J. Phycol. "
+Paraphysomonas bandaiensis Caron Lab Isolate,MMETSP1103,Het,,"MOLECULAR PHYLOGENETIC ANALYSIS OF THE HETEROTROPHIC CHRYSOPHYTE GENUSï¿½PARAPHYSOMONASï¿½(CHRYSOPHYCEAE), AND THE DESIGN OF rRNA?TARGETED OLIGONUCLEOTIDE PROBES FOR TWO SPECIES. 2002. Caron et al. J. Phycol. "
+Cafeteria sp. Caron Lab Isolate,MMETSP1104,Het,,Feeding by heterotrophic dinoflagellates on the common marine heterotrophic nanoflagellateï¿½Cafeteriaï¿½sp. 2007. Jeong et al. MEPS.
+Ochromonas sp. BG-1,MMETSP1105,Mix,,"Nutritional characteristics of a mixotrophic nanoflagellate, Ochromonasï¿½sp. 1989. Andersson et al. Microbial Ecology."
+Mantoniella antarctica SL-175,MMETSP1106,Mix,,"Mixotrophy in Chlorophytes and Haptophytesï¿½Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
+Paraphysomonas vestita GFlagA,MMETSP1107,Het,,"MOLECULAR PHYLOGENETIC ANALYSIS OF THE HETEROTROPHIC CHRYSOPHYTE GENUSï¿½PARAPHYSOMONASï¿½(CHRYSOPHYCEAE), AND THE DESIGN OF rRNA?TARGETED OLIGONUCLEOTIDE PROBES FOR TWO SPECIES. 2002. Caron et al. J. Phycol. "
 Symbiodinium sp. CCMP421,MMETSP1110,Un,,
 Neobodo designis CCAP 1951/1,MMETSP1114,Un,,
 Symbiodinium sp. CCMP2430,MMETSP1115,Un,,
@@ -504,7 +491,7 @@ non described non described CCMP2298,MMETSP1141,Un,,
 non described non described CCMP2298,MMETSP1142,Un,,
 non described non described CCMP2298,MMETSP1143,Un,,
 non described non described CCMP2298,MMETSP1144,Un,,
-Lessardia elongata SPMC 104,MMETSP1147,Het,,"LESSARDIA ELONGATA GEN. ET SP. NOV. (DINOFLAGELLATA, PERIDINIALES, PODOLAMPACEAE) AND THE TAXONOMIC POSITION OF THE GENUS ROSCOFFIA. 2003. Saldarriaga et al. J. Phycol."
+Lessardia elongata SPMC 104,MMETSP1147,Het,,"LESSARDIA ELONGATAï¿½GEN. ET SP. NOV. (DINOFLAGELLATA, PERIDINIALES, PODOLAMPACEAE) AND THE TAXONOMIC POSITION OF THE GENUSï¿½ROSCOFFIA. 2003. Saldarriaga et al. J. Phycol."
 Gyrodinium dominans SPMC 103,MMETSP1148,Het,,"Growth and grazing of a naked heterotrophic dinoflagellate, Gyrodinium dominans. 1995. Nakamura et al. AME."
 Emiliania huxleyi PLY M219,MMETSP1150,Un,,
 Emiliania huxleyi PLY M219,MMETSP1151,Un,,
@@ -515,10 +502,10 @@ Emiliania huxleyi CCMP370,MMETSP1155,Un,,
 Emiliania huxleyi CCMP370,MMETSP1156,Un,,
 Emiliania huxleyi CCMP370,MMETSP1157,Un,,
 Picocystis salinarum CCMP1897,MMETSP1159,Phot,,
-Pinguiococcus pyrenoidosus CCMP2078,MMETSP1160,Phot,,"Pinguiococcus pyrenoidosus gen. et sp. nov. (Pinguiophyceae), a new marine coccoid alga. 2006. Andersen et al. Phycol. Res. "
+Pinguiococcus pyrenoidosus CCMP2078,MMETSP1160,Phot,,"Pinguiococcus pyrenoidosusï¿½gen. et sp. nov. (Pinguiophyceae), a new marine coccoid alga. 2006. Andersen et al. Phycol. Res. "
 Picochlorum oklahomensis CCMP2329,MMETSP1161,Phot,,
-Phaeocystis Sp CCMP2710,MMETSP1162,Phot,,The life cycle of Phaeocystis: state of knowledge and presumptive role in ecology. 2007. Rousseau et al. Biogeochemistry. 
-Phaeomonas parva CCMP2877,MMETSP1163,Phot,,Ultrastructure and taxonomy of a marine photosynthetic stramenopile Phaeomonas parva gen. et sp. nov. (Pinguiophyceae) with emphasis on the flagellar apparatus architecture. 2006. Honda and Inouye. Phycol. Res.
+Phaeocystis Sp CCMP2710,MMETSP1162,Phot,,The life cycle ofï¿½Phaeocystis: state of knowledge and presumptive role in ecology. 2007. Rousseau et al. Biogeochemistry. 
+Phaeomonas parva CCMP2877,MMETSP1163,Phot,,Ultrastructure and taxonomy of a marine photosynthetic stramenopileï¿½Phaeomonas parvaï¿½gen. et sp. nov. (Pinguiophyceae) with emphasis on the flagellar apparatus architecture. 2006. Honda and Inouye. Phycol. Res.
 Chrysoreinhardia sp CCMP2950,MMETSP1164,Un,,
 Chrysocystis fragilis CCMP3189,MMETSP1165,Un,,
 Chrysoreinhardia sp CCMP3193,MMETSP1166,Un,,
@@ -531,7 +518,7 @@ Rhizochromulina marina cf CCMP1243,MMETSP1173,Un,,
 Dictyocha speculum CCMP1381,MMETSP1174,Un,,
 Triceratium dubium CCMP147,MMETSP1175,Phot,,
 Synedropsis recta cf CCMP1620,MMETSP1176,Phot,,
-Ochromonas sp CCMP1899,MMETSP1177,Mix,,"Nutritional characteristics of a mixotrophic nanoflagellate, Ochromonas sp. 1989. Andersson et al. Microbial Ecology."
+Ochromonas sp CCMP1899,MMETSP1177,Mix,,"Nutritional characteristics of a mixotrophic nanoflagellate, Ochromonasï¿½sp. 1989. Andersson et al. Microbial Ecology."
 Undescribed Undescribed CCMP2000,MMETSP1178,Un,,
 Chlamydomonas cf sp CCMP681,MMETSP1180,Phot,,
 Genus nov. species nov. RCC998,MMETSP1309,Un,,
@@ -549,7 +536,7 @@ Minutocellus polymorphus RCC2270,MMETSP1322,Phot,,
 Florenciella parvula RCC1693,MMETSP1323,Un,,
 Florenciella sp. RCC1587,MMETSP1324,Un,,
 Genus nov. species nov. RCC2288,MMETSP1326,Un,,
-Micromonas pusilla RCC2306,MMETSP1327,Mix,,"Mixotrophy in Chlorophytes and Haptophytes—Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
+Micromonas pusilla RCC2306,MMETSP1327,Mix,,"Mixotrophy in Chlorophytes and Haptophytesï¿½Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
 Pelagomonas calceolata RCC969,MMETSP1328,Un,,
 Genus nov. species nov. RCC1024,MMETSP1329,Un,,
 Picochlorum sp. RCC944,MMETSP1330,Un,,
@@ -560,7 +547,7 @@ Chaetoceros cf. neogracile RCC1993,MMETSP1336,Phot,,
 Pelagodinium RCC1491,MMETSP1338,Un,,
 Fibrocapsa japonica CCMP1661,MMETSP1339,Mix,,Mixotrophy in Red Tide Algae Raphidophytes. 2011. Jeong. J. Euk. Microbiol.
 Florenciella parvula CCMP2471,MMETSP1344,Un,,
-Fabrea salina ,MMETSP1345,Het,,"Rearing of Fabrea salina Henneguy (Ciliophora, Heterotrichida) with three unicellular feeds. 2008. Guermazi et al. Comptes Rendus Biologies. "
+Fabrea salina ,MMETSP1345,Het,,"Rearing ofï¿½Fabrea salinaï¿½Henneguy (Ciliophora, Heterotrichida) with three unicellular feeds. 2008. Guermazi et al. Comptes Rendus Biologies. "
 Aplanochytrium stocchinoi GSBS06,MMETSP1347,Het,,
 Aplanochytrium stocchinoi GSBS06,MMETSP1348,Het,,
 Aplanochytrium stocchinoi GSBS06,MMETSP1349,Het,,
@@ -570,8 +557,8 @@ Erythrolobus madagascarensis CCMP3276,MMETSP1354,Un,,
 Hemiselmis tepida CCMP443,MMETSP1355,Un,,
 Hemiselmis virescens PCC157,MMETSP1356,Un,,
 Hemiselmis rufescens PCC563,MMETSP1357,Un,,
-Bigelowiella natans CCMP1242,MMETSP1358,Mix,,"ULTRASTRUCTURAL STUDIES ON BIGELOWIELLA NATANS, GEN. ET SP. NOV., A CHLORARACHNIOPHYTE FLAGELLATE. 2001. Moestrup and Sengco. J. Phycol."
-Bigelowiella longifila CCMP242,MMETSP1359,Mix,,"ULTRASTRUCTURAL STUDIES ON BIGELOWIELLA NATANS, GEN. ET SP. NOV., A CHLORARACHNIOPHYTE FLAGELLATE. 2001. Moestrup and Sengco. J. Phycol."
+Bigelowiella natans CCMP1242,MMETSP1358,Mix,,"ULTRASTRUCTURAL STUDIES ONï¿½BIGELOWIELLA NATANS, GEN. ET SP. NOV., A CHLORARACHNIOPHYTE FLAGELLATE. 2001. Moestrup and Sengco. J. Phycol."
+Bigelowiella longifila CCMP242,MMETSP1359,Mix,,"ULTRASTRUCTURAL STUDIES ONï¿½BIGELOWIELLA NATANS, GEN. ET SP. NOV., A CHLORARACHNIOPHYTE FLAGELLATE. 2001. Moestrup and Sengco. J. Phycol."
 Licmophora paradoxa CCMP2313,MMETSP1360,Phot,,
 Staurosira complex sp. CCMP2646,MMETSP1361,Phot,,
 Leptocylindrus danicus CCMP1856,MMETSP1362,Phot,,
@@ -585,27 +572,27 @@ Symbiodinium sp. C15,MMETSP1370,Un,,
 Symbiodinium sp. C15,MMETSP1371,Un,,
 Symbiodinium sp. cladeA,MMETSP1374,Un,,
 Symbiodinium sp. D1a,MMETSP1377,Un,,
-Euplotes crassus CT5,MMETSP1380,Het,,Feeding behaviour and grazing impacts of a Euplotes sp. on attached bacteria. 1998. Lawrence and Snyder. Can. J. Microbiol.
+Euplotes crassus CT5,MMETSP1380,Het,,Feeding behaviour and grazing impacts of aï¿½Euplotesï¿½sp. on attached bacteria. 1998. Lawrence and Snyder. Can. J. Microbiol.
 Pavlova sp. CCMP459,MMETSP1381,Phot,Ax,
 Ammonia sp. ,MMETSP1384,Het,,
 Elphidium margaritaceum ,MMETSP1385,Het,,
-Micromonas sp. NEPCC29,MMETSP1386,Mix,,"Mixotrophy in Chlorophytes and Haptophytes—Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
-Micromonas sp. RCC472,MMETSP1387,Mix,,"Mixotrophy in Chlorophytes and Haptophytes—Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
-Rhodomonas sp. CCMP768,MMETSP1389,Phot,,Phycobiliprotein diffusion in chloroplasts of cryptophyte Rhodomonas CS24. 2009. Mirkovic et al. Photosynthesis Res.
-Micromonas sp. CCMP2099,MMETSP1390,Mix,,"Mixotrophy in Chlorophytes and Haptophytes—Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
+Micromonas sp. NEPCC29,MMETSP1386,Mix,,"Mixotrophy in Chlorophytes and Haptophytesï¿½Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
+Micromonas sp. RCC472,MMETSP1387,Mix,,"Mixotrophy in Chlorophytes and Haptophytesï¿½Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
+Rhodomonas sp. CCMP768,MMETSP1389,Phot,,Phycobiliprotein diffusion in chloroplasts of cryptophyteï¿½Rhodomonasï¿½CS24. 2009. Mirkovic et al. Photosynthesis Res.
+Micromonas sp. CCMP2099,MMETSP1390,Mix,,"Mixotrophy in Chlorophytes and Haptophytesï¿½Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
 Chlamydomonas leiostraca SAG 11-49,MMETSP1391,Phot,,
 Chlamydomonas chlamydogama SAG 11-48b,MMETSP1392,Phot,,
-Micromonas sp CS-222,MMETSP1393,Mix,,"Mixotrophy in Chlorophytes and Haptophytes—Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
+Micromonas sp CS-222,MMETSP1393,Mix,,"Mixotrophy in Chlorophytes and Haptophytesï¿½Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
 Asterionellopsis glacialis CCMP1581,MMETSP1394,Phot,,
-Blepharisma japonicum Stock R1072,MMETSP1395,Het,,Negative Phototaxis in Blepharisma japonicum. 1983. Matsuoka. J. Protozoo.
+Blepharisma japonicum Stock R1072,MMETSP1395,Het,,Negative Phototaxis inï¿½Blepharisma japonicum. 1983. Matsuoka. J. Protozoo.
 Pseudokeronopsis sp. Brazil,MMETSP1396,Het,,"Morphological Redescription and Morphogenesis of the Marine Ciliate, Pseudokeronopsis rubra (Ciliophora: Hypotrichida). 2001. Hu and Song. Acta Protozoologica."
-Climacostomum virens Stock W-24,MMETSP1397,Het,,Defensive function of trichocysts in Paramecium tetraurelia against heterotrich ciliate Climacostomum virens. 2000. Sugibayashi and Harumoto. Eur. J. Protistol.
+Climacostomum virens Stock W-24,MMETSP1397,Het,,Defensive function of trichocysts inï¿½Paramecium tetraureliaï¿½against heterotrich ciliateï¿½Climacostomum virens. 2000. Sugibayashi and Harumoto. Eur. J. Protistol.
 Bathycoccus prasinos CCMP1898,MMETSP1399,Phot,,
-Micromonas sp. RCC451,MMETSP1400,Mix,,"Mixotrophy in Chlorophytes and Haptophytes—Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
-Micromonas pusilla CCAC1681,MMETSP1401,Mix,,"Mixotrophy in Chlorophytes and Haptophytes—Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
-Micromonas pusilla RCC1614,MMETSP1402,Mix,,"Mixotrophy in Chlorophytes and Haptophytes—Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
-Micromonas pusilla CCMP1723 ,MMETSP1403,Mix,,"Mixotrophy in Chlorophytes and Haptophytes—Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
-Micromonas pusilla CCMP494,MMETSP1404,Mix,,"Mixotrophy in Chlorophytes and Haptophytes—Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
+Micromonas sp. RCC451,MMETSP1400,Mix,,"Mixotrophy in Chlorophytes and Haptophytesï¿½Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
+Micromonas pusilla CCAC1681,MMETSP1401,Mix,,"Mixotrophy in Chlorophytes and Haptophytesï¿½Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
+Micromonas pusilla RCC1614,MMETSP1402,Mix,,"Mixotrophy in Chlorophytes and Haptophytesï¿½Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
+Micromonas pusilla CCMP1723 ,MMETSP1403,Mix,,"Mixotrophy in Chlorophytes and Haptophytesï¿½Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
+Micromonas pusilla CCMP494,MMETSP1404,Mix,,"Mixotrophy in Chlorophytes and Haptophytesï¿½Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
 Thalassiosira weissflogii CCMP1010,MMETSP1405,Phot,,
 Thalassiosira weissflogii CCMP1010,MMETSP1406,Phot,,
 Thalassiosira weissflogii CCMP1010,MMETSP1407,Phot,,
@@ -625,24 +612,24 @@ Thalassiosira weissflogii CCMP1010,MMETSP1420,Phot,,
 Thalassiosira weissflogii CCMP1010,MMETSP1421,Phot,,
 Thalassiosira weissflogii CCMP1010,MMETSP1422,Phot,,
 Pseudo-nitzschia heimii UNC1101,MMETSP1423,Phot,,
-Oxyrrhis marina LB1974,MMETSP1424,Het,,Dynamics of herbivorous grazing by the heterotrophic dinoflagellate oxyrrhis marina. 1989. Goldman et al. J. Plankton Res.
-Oxyrrhis marina LB1974,MMETSP1425,Het,,Dynamics of herbivorous grazing by the heterotrophic dinoflagellate oxyrrhis marina. 1989. Goldman et al. J. Plankton Res.
-Oxyrrhis marina LB1974,MMETSP1426,Het,,Dynamics of herbivorous grazing by the heterotrophic dinoflagellate oxyrrhis marina. 1989. Goldman et al. J. Plankton Res.
+Oxyrrhis marina LB1974,MMETSP1424,Het,,Dynamics of herbivorous grazing by the heterotrophic dinoflagellateï¿½oxyrrhis marina. 1989. Goldman et al. J. Plankton Res.
+Oxyrrhis marina LB1974,MMETSP1425,Het,,Dynamics of herbivorous grazing by the heterotrophic dinoflagellateï¿½oxyrrhis marina. 1989. Goldman et al. J. Plankton Res.
+Oxyrrhis marina LB1974,MMETSP1426,Het,,Dynamics of herbivorous grazing by the heterotrophic dinoflagellateï¿½oxyrrhis marina. 1989. Goldman et al. J. Plankton Res.
 Skeletonema marinoi UNC1201,MMETSP1428,Phot,,
 Chaetoceros  sp. UNC1202,MMETSP1429,Phot,,
 Pseudo-nitzschia delicatissima UNC1205,MMETSP1432,Phot,,
 Undescribed Undescribed NY07348D,MMETSP1433,Un,,
 Minutocellus polymorphus CCMP3303,MMETSP1434,Phot,,
 Chaetoceros brevis CCMP164,MMETSP1435,Phot,,
-Alexandrium andersonii CCMP2222,MMETSP1436,Mix,,"Mixotrophic ability of the phototrophic dinoflagellates Alexandrium andersonii, A. affine, and A. fraterculus. 2016. Lee et al. Harmful Algae."
+Alexandrium andersonii CCMP2222,MMETSP1436,Mix,,"Mixotrophic ability of the phototrophic dinoflagellatesï¿½Alexandrium andersonii,ï¿½A. affine, andï¿½A. fraterculus. 2016. Lee et al. Harmful Algae."
 Eucampia antarctica CCMP1452,MMETSP1437,Phot,,
 Pterosperma sp. CCMP1384,MMETSP1438,Phot,,
 Gonyaulax spinifera CCMP409,MMETSP1439,Un,,
-Polarella glacialis CCMP2088,MMETSP1440,Phot,,Heat shock effects and population survival in the polar dinoflagellate Polarella glacialis. 2012. Zheng et al. J. Exp. Mar. Bio. And Ecol.
+Polarella glacialis CCMP2088,MMETSP1440,Phot,,Heat shock effects and population survival in the polar dinoflagellateï¿½Polarella glacialis. 2012. Zheng et al. J. Exp. Mar. Bio. And Ecol.
 Heterocapsa arctica CCMP445,MMETSP1441,Phot,Ax,
 Craspedostauros australis CCMP3328,MMETSP1442,Phot,,
 Entomoneis sp. CCMP2396,MMETSP1443,Phot,,
-Phaeocystis antarctica CCMP1374,MMETSP1444,Phot,,The life cycle of Phaeocystis: state of knowledge and presumptive role in ecology. 2007. Rousseau et al. Biogeochemistry. 
+Phaeocystis antarctica CCMP1374,MMETSP1444,Phot,,The life cycle ofï¿½Phaeocystis: state of knowledge and presumptive role in ecology. 2007. Rousseau et al. Biogeochemistry. 
 Pyramimonas sp. CCMP2087,MMETSP1445,Un,,
 Undescribed Undescribed CCMP2111,MMETSP1446,Un,,
 Chaetoceros dichaeta CCMP1751,MMETSP1447,Phot,,
@@ -657,14 +644,14 @@ Bathycoccus prasinos RCC716,MMETSP1460,Phot,,
 Brandtodinium nutriculum RCC3387,MMETSP1462,Un,,
 "Pavlova lutheri, Strain RCC1537",MMETSP1463,Un,,
 "Exanthemachrysis gayraliae, Strain RCC1523",MMETSP1464,Un,,
-Phaeocystis cordata RCC1383,MMETSP1465,Phot,,The life cycle of Phaeocystis: state of knowledge and presumptive role in ecology. 2007. Rousseau et al. Biogeochemistry. 
+Phaeocystis cordata RCC1383,MMETSP1465,Phot,,The life cycle ofï¿½Phaeocystis: state of knowledge and presumptive role in ecology. 2007. Rousseau et al. Biogeochemistry. 
 "Pavlova gyrans, Strain CCMP608",MMETSP1466,Un,,
 Undescribed Undescribed CCMP2135,MMETSP1467,Un,,
-Mantoniella sp CCMP1436,MMETSP1468,Mix,,"Mixotrophy in Chlorophytes and Haptophytes—Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
+Mantoniella sp CCMP1436,MMETSP1468,Mix,,"Mixotrophy in Chlorophytes and Haptophytesï¿½Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
 "Unidentified sp., Strain CCMP1205",MMETSP1469,Un,,
 "Unidentified sp, Strain CCMP2175",MMETSP1470,Un,,
 Pycnococcus provasolii RCC733,MMETSP1471,Phot,,
 "Pycnococcus provasolii, Strain RCC251",MMETSP1472,Phot,,
 "Stichococcus sp, Strain RCC1054",MMETSP1473,Phot,,
-"Imantonia sp., Strain RCC918",MMETSP1474,Mix,,"Mixotrophy in Chlorophytes and Haptophytes—Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
+"Imantonia sp., Strain RCC918",MMETSP1474,Mix,,"Mixotrophy in Chlorophytes and Haptophytesï¿½Effect of Irradiance, Macronutrient, Micronutrient and Vitamin Limitation. 2018. Anderson et al. Front. Microbiol."
 Undescribed Undescribed CCMP1999,MMETSP1475,Un,,
